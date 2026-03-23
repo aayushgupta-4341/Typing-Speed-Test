@@ -7,7 +7,7 @@ This project helps users test their typing speed and accuracy in real-time.
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-link-here
+[🔗 https://your-netlify-link-here](https://typing-speed-track.netlify.app/)
 
 ---
 
