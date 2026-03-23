@@ -13,9 +13,7 @@ This project helps users test their typing speed and accuracy in real-time.
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/your-username/Typing-Speed-Test
-
----
+[🔗https://github.com/aayushgupta-4341/Typing-Speed-Test.git]
 
 ## ✨ Features
 
