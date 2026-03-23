@@ -39,7 +39,7 @@ This project helps users test their typing speed and accuracy in real-time.
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
+<img width="1915" height="913" alt="image" src="https://github.com/user-attachments/assets/d6a7734a-4699-4926-af2c-f49e1343e3a5" />
 
 ---
 
